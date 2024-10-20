@@ -1,6 +1,8 @@
 beautifulsoup4==4.12.3
 black==24.10.0
+fire==0.7.0
 numpy==2.1.2
 pandas==2.2.3
+python-dotenv==1.0.1
 selenium==4.25.0
 streamlit==1.39.0
