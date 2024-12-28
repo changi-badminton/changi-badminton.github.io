@@ -8,12 +8,14 @@ from main import extract_table, merge_tables
 def update_readme(
     url: str = "https://www.carc.org.sg/FacilityBooking.aspx",
     path_out: str = "README.md",
+    agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
 ):
     # Set up the WebDriver with options to speed up loading
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
+    options.add_argument(f"user-agent={agent}")  # To avoid cloudflare captcha
     driver = webdriver.Chrome(options=options)  # or webdriver.Firefox(), etc.
 
     driver.get(url)
