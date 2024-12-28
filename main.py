@@ -79,5 +79,13 @@ def main(url: str = "https://www.carc.org.sg/FacilityBooking.aspx"):
     st.dataframe(data, height=600)
 
 
+"""
+conda create -n changi python=3.10 -y
+conda activate changi
+pip install -r requirements.txt
+streamlit run main.py
+"""
+
+
 if __name__ == "__main__":
     main()
