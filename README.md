@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2024-12-29 14:17:59 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2024-12-29 15:18:18 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Sun 29/12/24   | Mon 30/12/24   | Tue 31/12/24   | Wed 1/1/25   | Thu 2/1/25   | Fri 3/1/25   | Sat 4/1/25   |
 |:-------|:---------------|:---------------|:---------------|:-------------|:-------------|:-------------|:-------------|
