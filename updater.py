@@ -13,8 +13,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from main import extract_table, merge_tables
 
 
-def get_changi_data(
-    url: str = "https://www.carc.org.sg/FacilityBooking.aspx",
+def get_webdriver(
     agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
 ):
     options = Options()
@@ -22,8 +21,11 @@ def get_changi_data(
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     options.add_argument(f"user-agent={agent}")  # To avoid cloudflare captcha
-    driver = webdriver.Chrome(options=options)  # or webdriver.Firefox(), etc.
+    return webdriver.Chrome(options=options)
 
+
+def get_changi_data(url: str = "https://www.carc.org.sg/FacilityBooking.aspx"):
+    driver = get_webdriver()
     driver.get(url)
     table1 = extract_table(driver, facility="Badminton Court 1")
     table2 = extract_table(driver, facility="Badminton Court 2")
@@ -49,16 +51,17 @@ def format_court_names(names: List[str], limit: int = 3) -> str:
     return ",".join(sorted([x.split()[0] for x in names])) + suffix
 
 
-def click_item(driver, by: str, value: str):
+def click_item(driver, by: str, value: str, break_on_error: bool = True):
     print(dict(click=by, value=value))
-    wait = WebDriverWait(driver, 10)
+    wait = WebDriverWait(driver, 3)
     mapping = dict(css=By.CSS_SELECTOR, cls=By.CLASS_NAME, id=By.ID, xpath=By.XPATH)
 
     try:
         wait.until(EC.element_to_be_clickable((mapping[by], value))).click()
     except Exception as e:
         print(f"Could not click {value}", e)
-        breakpoint()
+        if break_on_error:
+            breakpoint()
 
 
 def wait_item(driver, by: str, value: str):
@@ -87,15 +90,9 @@ def get_week_dates(day: int, month: int, year: int) -> List[Tuple[int, int, int]
 
 def get_expo_data(
     url: str = "https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD",
-    agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
 ):
     # Iframe from https://singaporebadmintonhall.com/expo/
-    options = Options()
-    options.add_argument("--headless")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")
-    options.add_argument(f"user-agent={agent}")  # To avoid cloudflare captcha
-    driver = webdriver.Chrome(options=options)  # or webdriver.Firefox(), etc.
+    driver = get_webdriver()
     driver.get(url)
 
     click_item(driver, "css", "div.dateTextWrapper")
@@ -125,7 +122,7 @@ def get_expo_data(
         "10:00 PM",
         "11:00 PM",
     ]
-    data = [dict(time=t, **{format_date(*d): [] for d in dates}) for t in timings]
+    data = [dict(Time=t, **{format_date(*d): [] for d in dates}) for t in timings]
     print(dict(data=data))
 
     for day, month, year in dates:
@@ -161,8 +158,49 @@ def get_expo_data(
     return header + markdown
 
 
+def get_origin_data(
+    url: str = "https://originbadmintontennis.setmore.com/book?step=time-slot&products=sgrolacnx0m9p2mqoycdgk0n9upmhxc1&type=service&staff=cg98cjfg44hsmkg1roi2w3m3unolyliw&staffSelected=true",
+):
+    today = datetime.now()
+    data = []
+
+    for day, month, year in get_week_dates(today.day, today.month, today.year):
+        text = datetime(year, month, day).strftime("%-d %B %Y")
+        print(text)
+        driver = get_webdriver()
+        driver.get(url)
+
+        click_item(driver, "css", f"button[aria-label*='{text}']", break_on_error=False)
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+
+        # Find all time spans
+        time_slots = []
+        for time_element in soup.find_all(
+            "span", {"class": "where:block inline text-body-14 font-strong"}
+        ):
+            time = time_element.text
+            # Find the adjacent PM/AM span
+            period = time_element.find_next_sibling(
+                "span",
+                {"class": "where:block inline text-primary text-body-12 font-strong"},
+            ).text.strip()
+            time_slots.append(f"{time}{period}")
+
+        # Print all time slots
+        for slot in time_slots:
+            print(slot)
+
+        data.append(dict(Date=text, Slots=",".join(time_slots).strip()))
+
+    df = pd.DataFrame(data)
+    markdown = df.to_markdown(index=False)
+    time_now = pd.Timestamp.now("Asia/Singapore").strftime("%Y-%m-%d %H:%M:%S %Z")
+    header = f"[Origin Badminton Stringing ({time_now})]({url})\n\n"
+    return header + markdown
+
+
 def update_readme(path_out: str = "README.md"):
-    data = get_changi_data() + "\n\n" + get_expo_data()
+    data = get_changi_data() + "\n\n" + get_expo_data() + "\n\n" + get_origin_data()
     with open(path_out, "w") as f:
         print(data, file=f)
 
