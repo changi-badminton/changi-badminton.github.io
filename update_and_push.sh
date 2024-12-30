@@ -1,5 +1,5 @@
 while true; do
-    # Run the updater.py script
+    git pull
     python updater.py
 
     # Check if there are any changes

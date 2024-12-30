@@ -5,6 +5,7 @@ from typing import Tuple
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from selenium.common import StaleElementReferenceException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -57,6 +58,8 @@ def click_item(driver, by: str, value: str, break_on_error: bool = True):
     mapping = dict(css=By.CSS_SELECTOR, cls=By.CLASS_NAME, id=By.ID, xpath=By.XPATH)
 
     try:
+        wait.until(EC.element_to_be_clickable((mapping[by], value))).click()
+    except StaleElementReferenceException:
         wait.until(EC.element_to_be_clickable((mapping[by], value))).click()
     except Exception as e:
         print(f"Could not click {value}", e)
