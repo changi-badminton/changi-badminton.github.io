@@ -203,7 +203,8 @@ def get_origin_data(
 
 
 def update_readme(path_out: str = "README.md"):
-    data = get_changi_data() + "\n\n" + get_expo_data() + "\n\n" + get_origin_data()
+    # data = get_changi_data() + "\n\n" + get_expo_data() + "\n\n" + get_origin_data()
+    data = get_changi_data() + "\n\n" + get_expo_data()
     with open(path_out, "w") as f:
         print(data, file=f)
 
