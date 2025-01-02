@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2025-01-03 06:56:40 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2025-01-03 07:57:20 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Fri 3/1/25   | Sat 4/1/25   | Sun 5/1/25   | Mon 6/1/25   | Tue 7/1/25   | Wed 8/1/25   | Thu 9/1/25   |
 |:-------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|
@@ -18,11 +18,11 @@
 | 20:30  |              | 1,2          | 1,2          | 1            | 2            |              |              |
 | 21:30  |              |              |              |              |              |              |              |
 
-[SBH Expo Badminton Courts (2025-01-03 06:56:59 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
+[SBH Expo Badminton Courts (2025-01-03 07:57:40 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
 
 | Time     | 2/1/2025   | 3/1/2025   | 4/1/2025        | 5/1/2025        | 6/1/2025        | 7/1/2025        | 8/1/2025        |
 |:---------|:-----------|:-----------|:----------------|:----------------|:----------------|:----------------|:----------------|
-| 08:00 AM |            |            | B19,B21,B22,+15 | B14,B15,B16,+3  | B19,B20,B21,+6  | B19,B21,B22,+14 | B19,B21,B22,+19 |
+| 08:00 AM |            |            | A2              | B14,B15,B16,+3  | B19,B20,B21,+6  | B19,B21,B22,+14 | B19,B21,B22,+19 |
 | 09:00 AM |            |            | B19,B20,B22,+11 |                 |                 | B19,B21,B22,+14 | B19,B21,B22,+19 |
 | 10:00 AM |            |            | B17,B18,B19,+6  |                 |                 | B19,B21,B22,+19 | B19,B21,B22,+18 |
 | 11:00 AM |            |            | B18,B19,B21,+8  |                 |                 | B19,B21,B22,+19 | B19,B21,B22,+18 |
