@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2025-01-18 01:22:39 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2025-01-18 02:23:14 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Sat 18/1/25   | Sun 19/1/25   | Mon 20/1/25   | Tue 21/1/25   | Wed 22/1/25   | Thu 23/1/25   | Fri 24/1/25   |
 |:-------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|
@@ -18,7 +18,7 @@
 | 20:30  | 1             | 1,2           | 1,2           | 1,2           | 1,2           | 1,2           |               |
 | 21:30  |               |               |               |               |               |               |               |
 
-[SBH Expo Badminton Courts (2025-01-18 01:22:57 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
+[SBH Expo Badminton Courts (2025-01-18 02:23:32 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
 
 | Time     | 17/1/2025   | 18/1/2025   | 19/1/2025      | 20/1/2025      | 21/1/2025       | 22/1/2025       | 23/1/2025       |
 |:---------|:------------|:------------|:---------------|:---------------|:----------------|:----------------|:----------------|
@@ -36,5 +36,5 @@
 | 07:00 PM |             |             |                |                |                 |                 |                 |
 | 08:00 PM |             |             |                | A8,B18,B20     |                 |                 |                 |
 | 09:00 PM |             |             |                | B19,B21,B22,+7 |                 |                 | B22             |
-| 10:00 PM |             |             | B18,B20,B21,+7 | A10,A8,A9,+5   | A10,A8,A9,+7    | A7,A8,A9,+5     |                 |
-| 11:00 PM |             |             | B18,B20,B21,+8 | A10,A8,A9,+6   | A10,A8,A9,+7    | A7,A8,A9,+6     |                 |
+| 10:00 PM |             |             | B14,B18,B21,+6 | A10,A8,A9,+5   | A10,A8,A9,+7    | A7,A8,A9,+5     |                 |
+| 11:00 PM |             |             | B15,B18,B21,+7 | A10,A8,A9,+6   | A10,A8,A9,+7    | A7,A8,A9,+6     |                 |
