@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2025-01-20 03:54:35 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2025-01-20 04:55:18 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Mon 20/1/25   | Tue 21/1/25   | Wed 22/1/25   | Thu 23/1/25   | Fri 24/1/25   | Sat 25/1/25   | Sun 26/1/25   |
 |:-------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|
@@ -18,7 +18,7 @@
 | 20:30  | 1,2           | 1,2           | 2             | 1,2           |               | 1             | 1,2           |
 | 21:30  |               |               |               |               |               |               |               |
 
-[SBH Expo Badminton Courts (2025-01-20 03:54:53 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
+[SBH Expo Badminton Courts (2025-01-20 04:55:36 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
 
 | Time     | 19/1/2025   | 20/1/2025   | 21/1/2025       | 22/1/2025       | 23/1/2025       | 24/1/2025       | 25/1/2025       |
 |:---------|:------------|:------------|:----------------|:----------------|:----------------|:----------------|:----------------|
