@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2025-01-27 08:43:53 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2025-01-27 09:44:35 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Mon 27/1/25   | Tue 28/1/25   | Wed 29/1/25   | Thu 30/1/25   | Fri 31/1/25   | Sat 1/2/25   | Sun 2/2/25   |
 |:-------|:--------------|:--------------|:--------------|:--------------|:--------------|:-------------|:-------------|
@@ -18,12 +18,12 @@
 | 20:30  | 2             |               |               |               | 1,2           | 1,2          | 1,2          |
 | 21:30  |               |               |               |               |               |              |              |
 
-[SBH Expo Badminton Courts (2025-01-27 08:44:13 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
+[SBH Expo Badminton Courts (2025-01-27 09:44:53 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
 
 | Time     | 27/1/2025       | 28/1/2025       | 29/1/2025   | 30/1/2025   | 31/1/2025       | 1/2/2025        | 2/2/2025        |
 |:---------|:----------------|:----------------|:------------|:------------|:----------------|:----------------|:----------------|
 | 08:00 AM |                 |                 |             |             |                 | B19,B21,B22,+15 | B20,B21,B22,+8  |
-| 09:00 AM | B18,B20,B21,+12 | B18,B20,B21,+12 |             |             |                 | B19,B21,B22,+15 | B20,B21         |
+| 09:00 AM |                 |                 |             |             |                 | B19,B21,B22,+15 | B20,B21         |
 | 10:00 AM | B20,B21,B22,+13 | B20,B21,B22,+13 |             |             |                 | B19,B20,B21,+15 | B21             |
 | 11:00 AM | B19,B21,B22,+11 | B19,B21,B22,+11 |             |             |                 | B17,B20,B21,+14 |                 |
 | 12:00 PM | A10,B20,B22,+5  | A10,B20,B22,+5  |             |             |                 | B19,B21,B22,+19 | B14,B19,B20,+11 |
