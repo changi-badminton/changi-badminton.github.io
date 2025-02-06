@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2025-02-06 15:16:31 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2025-02-06 16:17:07 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Thu 6/2/25   | Fri 7/2/25   | Sat 8/2/25   | Sun 9/2/25   | Mon 10/2/25   | Tue 11/2/25   | Wed 12/2/25   |
 |:-------|:-------------|:-------------|:-------------|:-------------|:--------------|:--------------|:--------------|
@@ -18,7 +18,7 @@
 | 20:30  |              |              | 1,2          | 1,2          | 1,2           | 1,2           | 1,2           |
 | 21:30  |              |              |              |              |               |               |               |
 
-[SBH Expo Badminton Courts (2025-02-06 15:16:50 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
+[SBH Expo Badminton Courts (2025-02-06 16:17:28 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
 
 | Time     | 6/2/2025     | 7/2/2025     | 8/2/2025        | 9/2/2025        | 10/2/2025       | 11/2/2025      | 12/2/2025      |
 |:---------|:-------------|:-------------|:----------------|:----------------|:----------------|:---------------|:---------------|
@@ -30,7 +30,7 @@
 | 01:00 PM |              |              | B19,B20,B21,+18 |                 | A5,A7,A8,+4     | B19,B21,B22,+9 | B19,B21,B22,+9 |
 | 02:00 PM |              |              | A10,A7,A9,+5    |                 |                 | B19,B21,B22,+6 | B19,B21,B22,+8 |
 | 03:00 PM |              |              | B16,B17,B20,+3  |                 |                 | B12            | B19,B20,B21,+5 |
-| 04:00 PM | B14          | B14          |                 |                 |                 |                | B13,B16,B21,+2 |
+| 04:00 PM |              |              |                 |                 |                 |                | B13,B16,B21,+2 |
 | 05:00 PM |              |              |                 |                 |                 | B12,B13,B14    |                |
 | 06:00 PM |              |              |                 |                 |                 |                |                |
 | 07:00 PM |              |              |                 |                 | A7              |                |                |
