@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2025-02-09 10:58:09 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2025-02-09 11:58:43 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Sun 9/2/25   | Mon 10/2/25   | Tue 11/2/25   | Wed 12/2/25   | Thu 13/2/25   | Fri 14/2/25   | Sat 15/2/25   |
 |:-------|:-------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|
@@ -18,7 +18,7 @@
 | 20:30  | 1,2          | 1,2           | 1,2           | 1,2           | 1             |               | 1,2           |
 | 21:30  |              |               |               |               |               |               |               |
 
-[SBH Expo Badminton Courts (2025-02-09 10:58:27 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
+[SBH Expo Badminton Courts (2025-02-09 11:59:02 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
 
 | Time     | 9/2/2025       | 10/2/2025      | 11/2/2025      | 12/2/2025      | 13/2/2025      | 14/2/2025      | 15/2/2025      |
 |:---------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
@@ -34,7 +34,7 @@
 | 05:00 PM |                |                |                |                |                |                |                |
 | 06:00 PM |                |                |                |                |                |                |                |
 | 07:00 PM |                |                |                |                |                |                |                |
-| 08:00 PM | B11,B20,B21    | B11,B20,B21    |                |                |                |                |                |
-| 09:00 PM | B16,B20,B21,+7 | B16,B20,B21,+7 |                |                |                |                |                |
+| 08:00 PM | B11,B20        | B11,B20        |                |                |                |                |                |
+| 09:00 PM | B16,B20,B21,+6 | B16,B20,B21,+6 |                |                |                |                |                |
 | 10:00 PM | A10,A6,A7,+5   | A10,A6,A7,+5   |                |                |                |                | B20,B21,B22,+9 |
 | 11:00 PM | A10,A6,A7,+5   | A10,A6,A7,+5   |                |                |                |                | B20,B21,B22,+9 |
