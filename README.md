@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2025-02-14 17:14:36 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2025-02-14 18:15:11 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Fri 14/2/25   | Sat 15/2/25   | Sun 16/2/25   | Mon 17/2/25   | Tue 18/2/25   | Wed 19/2/25   | Thu 20/2/25   |
 |:-------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|
@@ -18,7 +18,7 @@
 | 20:30  |               | 1,2           | 1,2           | 1,2           | 1,2           | 1             | 1             |
 | 21:30  |               |               |               |               |               |               |               |
 
-[SBH Expo Badminton Courts (2025-02-14 17:14:53 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
+[SBH Expo Badminton Courts (2025-02-14 18:15:30 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
 
 | Time     | 14/2/2025      | 15/2/2025      | 16/2/2025   | 17/2/2025      | 18/2/2025      | 19/2/2025      | 20/2/2025      |
 |:---------|:---------------|:---------------|:------------|:---------------|:---------------|:---------------|:---------------|
@@ -30,8 +30,8 @@
 | 01:00 PM |                |                |             |                | B16,B22        | B19,B21,B22,+4 | B20,B21,B22,+3 |
 | 02:00 PM |                |                | B16         |                | B19,B21,B22,+2 | B19,B21,B22,+4 | B20,B21,B22,+3 |
 | 03:00 PM |                |                |             |                |                | B18,B19,B20,+2 | B19,B22        |
-| 04:00 PM |                |                |             |                |                | B16            |                |
-| 05:00 PM |                |                |             |                | B13            |                | B16            |
+| 04:00 PM |                |                | B11         |                |                | B16            |                |
+| 05:00 PM |                |                | B11         |                | B13            |                | B16            |
 | 06:00 PM |                |                |             |                |                |                |                |
 | 07:00 PM |                |                |             |                |                |                |                |
 | 08:00 PM | B15            | B15            |             |                |                |                |                |
