@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2025-02-17 22:01:02 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2025-02-17 23:01:36 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Mon 17/2/25   | Tue 18/2/25   | Wed 19/2/25   | Thu 20/2/25   | Fri 21/2/25   | Sat 22/2/25   | Sun 23/2/25   |
 |:-------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|
@@ -18,7 +18,7 @@
 | 20:30  | 1,2           | 1,2           | 1             | 1             |               | 1             | 1,2           |
 | 21:30  |               |               |               |               |               |               |               |
 
-[SBH Expo Badminton Courts (2025-02-17 22:01:21 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
+[SBH Expo Badminton Courts (2025-02-17 23:01:55 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
 
 | Time     | 17/2/2025   | 18/2/2025   | 19/2/2025      | 20/2/2025      | 21/2/2025      | 22/2/2025      | 23/2/2025      |
 |:---------|:------------|:------------|:---------------|:---------------|:---------------|:---------------|:---------------|
@@ -29,8 +29,8 @@
 | 12:00 PM |             |             | B19,B20,B21,+3 | B17,B18,B21,+1 | B21,B22        | B18,B20,B22,+2 |                |
 | 01:00 PM |             |             | B19,B21,B22,+4 | B18,B21,B22,+1 | B17,B21,B22    | B18,B19,B22,+2 |                |
 | 02:00 PM |             |             | B20,B21,B22,+3 | B18,B21,B22,+1 | B21,B22        | B16,B21,B22    |                |
-| 03:00 PM |             |             | B17,B18,B20,+1 | B19,B22        | B18            |                |                |
-| 04:00 PM |             |             | B16            |                |                |                |                |
+| 03:00 PM |             |             | B17,B18,B20    | B19,B22        | B18            |                |                |
+| 04:00 PM |             |             |                |                |                |                |                |
 | 05:00 PM |             |             |                |                |                |                |                |
 | 06:00 PM |             |             |                |                |                |                |                |
 | 07:00 PM |             |             |                |                |                |                |                |
