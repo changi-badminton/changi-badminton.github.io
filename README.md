@@ -1,4 +1,4 @@
-[Changi Airport Badminton Courts (2025-02-20 02:32:41 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
+[Changi Airport Badminton Courts (2025-02-20 03:33:17 +08)](https://www.carc.org.sg/FacilityBooking.aspx)
 
 | Time   | Thu 20/2/25   | Fri 21/2/25   | Sat 22/2/25   | Sun 23/2/25   | Mon 24/2/25   | Tue 25/2/25   | Wed 26/2/25   |
 |:-------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|
@@ -18,7 +18,7 @@
 | 20:30  | 1             |               | 1             | 1,2           | 1             | 2             | 2             |
 | 21:30  |               |               |               |               |               |               |               |
 
-[SBH Expo Badminton Courts (2025-02-20 02:33:00 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
+[SBH Expo Badminton Courts (2025-02-20 03:33:36 +08)](https://singaporebadmintonhall.getomnify.com/widgets/O3MRKGBH359GA55KHMG1RD)
 
 | Time     | 19/2/2025   | 20/2/2025   | 21/2/2025      | 22/2/2025      | 23/2/2025      | 24/2/2025    | 25/2/2025      |
 |:---------|:------------|:------------|:---------------|:---------------|:---------------|:-------------|:---------------|
@@ -36,5 +36,5 @@
 | 07:00 PM |             |             |                |                |                |              |                |
 | 08:00 PM |             |             |                |                |                |              |                |
 | 09:00 PM |             |             |                |                |                | B15,B16      |                |
-| 10:00 PM |             |             |                | B17,B20,B21,+5 | B19,B20,B21,+6 | A10,A8,A9,+7 |                |
-| 11:00 PM |             |             |                | B20,B21,B22,+5 | B20,B21,B22,+8 | A10,A8,A9,+7 |                |
+| 10:00 PM |             |             |                | B16,B17,B21,+3 | B19,B20,B21,+6 | A10,A8,A9,+7 |                |
+| 11:00 PM |             |             |                | B17,B21,B22,+3 | B20,B21,B22,+8 | A10,A8,A9,+7 |                |
